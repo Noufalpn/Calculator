@@ -1,0 +1,48 @@
+form{
+    width: 350px;
+    height: 506px;
+    background-color: darkgrey;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 65px auto;
+    
+
+}
+@media(max-width:1000px) and (min-width:50px) {
+    .container{
+        background-color: white;
+    }
+       .screen{
+        background-color: white;
+       } 
+    .btn{
+        background-color: white;
+    }
+}
+
+
+.screen{
+    width: 330px;
+    height: 60px;
+    border-radius: 5px;
+    border: grey;
+    margin-bottom: 8px;
+}
+.btn{
+    width: 60px;
+    height: 60px;
+    margin: 9px;
+    cursor: pointer;
+    font-size: 28px;
+    line-height: 30px;
+    border-radius: 50%;
+}
+h3{
+    color: black;
+}
+
+
+
+
+
